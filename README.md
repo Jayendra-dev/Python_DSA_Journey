@@ -1,6 +1,6 @@
-# Python and DSA Practice
+# DSA Practice in Python
 
-This repository contains my daily practice code for Python and Data Structures & Algorithms.
+This repository contains my daily practice code for  Data Structures & Algorithms in python 
 
 ### Topics Covered
 - Day 1: Variables, Data Types
